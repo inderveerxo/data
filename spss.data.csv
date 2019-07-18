@@ -48,29 +48,3 @@
 9,"[1, 2, 3, 4, 5, 6, 7, 9, 11, 12, 13]","Yes, I give consent",20,Male,Caucasian, ,Undeclared,Apple,Text messaging,-1,2,1,2,3,2,1,2,2,2,3,1,3,2,1,2,2,1.5,2.375
 9,"[1, 2, 3, 4, 5, 6, 7, 9, 11, 12, 13]","Yes, I give consent",24,Male,Asian, ,Business,Apple,Phone calls,8,4,4,3,1,3,3,2,2,2,1,1,1,1,3,3,3,2.75,1.875
 9,"[1, 2, 3, 4, 5, 6, 7, 9, 11, 12, 13]","Yes, I give consent",23,Other,Caucasian, ,Arts,Apple,Text messaging,7,3,3,3,4,3,3,2,2,2,3,1,3,2,2,3,2,2.375,2.75
-10,"[1, 2, 3, 4, 5, 6, 7, 10, 11, 12, 13]","Yes, I give consent",19,Female,Indian, ,Arts,Android,Text messaging,9,3,4,1,1,3,3,1,2,2,1,3,1,3,3,2,4,3.25,1.375
-10,"[1, 2, 3, 4, 5, 6, 7, 10, 11, 12, 13]","Yes, I give consent",25,Female,Indian, ,Arts,Apple,Text messaging,9,3,3,1,3,3,3,2,2,2,2,3,3,2,3,3,3,2.875,2.25
-10,"[1, 2, 3, 4, 5, 6, 7, 10, 11, 12, 13]","Yes, I give consent",20,Female,Indian, ,Arts,Apple,Text messaging,5,2,3,1,1,2,3,2,3,1,1,2,2,4,2,3,4,2.75,1.75
-10,"[1, 2, 3, 4, 5, 6, 7, 10, 11, 12, 13]","Yes, I give consent",18,Female,Indian, ,Sciences,Apple,Text messaging,4,4,4,1,1,2,2,1,3,2,1,3,1,1,2,2,3,2.625,1.5
-10,"[1, 2, 3, 4, 5, 6, 7, 10, 11, 12, 13]","Yes, I give consent",22,Female,Caucasian, ,Arts,Apple,Text messaging,6,2,3,2,4,4,2,3,2,4,2,2,3,3,4,2,2,2.75,2.75
-10,"[1, 2, 3, 4, 5, 6, 7, 10, 11, 12, 13]","Yes, I give consent",22,Female,Indian, ,Arts,Apple,Text messaging,-4,3,3,2,3,3,4,1,1,2,2,2,2,4,3,2,3,3.125,1.875
-10,"[1, 2, 3, 4, 5, 6, 7, 10, 11, 12, 13]","Yes, I give consent",23,Female,Other:,Persian,Arts,Apple,Text messaging,0,4,3,2,2,2,3,2,4,1,2,3,2,2,3,3,2,2.75,2.25
-10,"[1, 2, 3, 4, 5, 6, 7, 10, 11, 12, 13]","Yes, I give consent",20,Female,Indian, ,Undeclared,Android,Text messaging,0,2,2,2,2,2,2,2,2,2,2,2,3,4,2,3,2,2.25,2.25
-10,"[1, 2, 3, 4, 5, 6, 7, 10, 11, 12, 13]","Yes, I give consent",19,Female,Asian, ,Arts,Apple,Phone calls,7,3,4,1,3,3,4,1,2,1,2,1,1,4,3,1,2,3,1.5
-10,"[1, 2, 3, 4, 5, 6, 7, 10, 11, 12, 13]","Yes, I give consent",19,Female,Other:,Fijian Indian,Undeclared,Apple,Text messaging,5,3,2,1,4,2,2,2,1,3,1,2,1,3,3,2,2,2.375,1.875
-10,"[1, 2, 3, 4, 5, 6, 7, 10, 11, 12, 13]","Yes, I give consent",19,Female,Indian, ,Arts,Android,Phone calls,2,4,4,1,3,2,4,1,2,1,2,4,3,1,3,1,4,3.25,1.75
-10,"[1, 2, 3, 4, 5, 6, 7, 10, 11, 12, 13]","Yes, I give consent",23,Female,Caucasian, ,Arts,Android,Text messaging,5,3,3,1,3,3,3,1,3,3,2,2,3,3,3,1,2,2.75,2.125
-10,"[1, 2, 3, 4, 5, 6, 7, 10, 11, 12]","Yes, I give consent",23,Female,Asian, ,Arts,Apple,Phone calls,0,3,4,1,3,3,3,1,1,2,1,2,1,4,3,1,2,3,1.375
-10,"[1, 2, 3, 4, 5, 6, 7, 10, 11, 12, 13]","Yes, I give consent",20,Female,Indian, ,Arts,Apple,Phone calls,-8,2,2,2,3,2,1,1,1,1,3,2,1,1,3,4,3,2,2
-10,"[1, 2, 3, 4, 5, 6, 7, 10, 11, 12, 13]","Yes, I give consent",20,Female,Hispanic or Latino, ,Arts,Apple,Text messaging,5,3,2,2,4,3,4,2,2,3,2,1,1,3,3,4,1,2.5,2.5
-10,"[1, 2, 3, 4, 5, 6, 7, 10, 11, 12, 13]","Yes, I give consent",18,Female,Caucasian, ,Business,Apple,Phone calls,-6,3,3,2,4,4,3,1,1,3,1,3,1,3,3,1,3,3.125,1.75
-10,"[1, 2, 3, 4, 5, 6, 7, 10, 11, 12]","Yes, I give consent",29,Female,Caucasian, ,Arts,Apple,Text messaging,-2,1,2,3,3,3,2,3,2,3,3,2,3,2,2,3,1,1.875,2.875
-10,"[1, 2, 3, 4, 5, 6, 7, 10, 11, 12, 13]","Yes, I give consent",20,Female,Indian, ,Sciences,Apple,Phone calls,0,2,3,2,2,3,3,3,1,1,1,2,3,3,3,1,3,2.75,1.75
-10,"[1, 2, 3, 4, 5, 6, 7, 10, 11, 12, 13]","Yes, I give consent",21,Female,Asian, ,Arts,Apple,Text messaging,0,2,3,3,4,4,2,3,1,4,4,1,2,1,2,4,1,2,3.125
-10,"[1, 2, 3, 4, 5, 6, 7, 10, 11, 12, 13]","Yes, I give consent",27,Female,Caucasian, ,Arts,Android,Text messaging,-5,2,2,2,3,2,3,1,1,1,1,3,2,4,2,3,2,2.5,1.75
-10,"[1, 2, 3, 4, 5, 6, 7, 10, 11, 12, 13]","Yes, I give consent",18,Female,Asian, ,Health,Apple,Text messaging,8,3,4,2,1,3,1,2,2,2,2,3,2,3,4,1,3,3,1.75
-10,"[1, 2, 3, 4, 5, 6, 7, 10, 11, 12, 13]","Yes, I give consent",19,Male,Indian, ,Arts,Android,Phone calls,-6,2,2,3,3,2,3,2,2,3,3,3,3,1,2,4,2,2.125,2.875
-10,"[1, 2, 3, 4, 5, 6, 7, 10, 11, 12, 13]","Yes, I give consent",20,Male,Asian, ,Arts,Android,Phone calls,0,3,2,3,1,4,1,2,1,1,2,1,1,1,3,1,3,2.25,1.5
-10,"[1, 2, 3, 4, 5, 6, 7, 10, 11, 12, 13]","Yes, I give consent",22,Male,Other:,Middle eastern,Sciences,Apple,Phone calls,-4,2,2,3,4,4,2,2,2,2,2,2,3,3,4,4,2,2.625,2.75
-10,"[1, 2, 3, 4, 5, 6, 7, 10, 11, 12, 13]","Yes, I give consent",21,Male,Caucasian, ,Arts,Android,Text messaging,-8,2,2,3,3,1,3,3,2,2,3,1,2,3,3,3,1,2,2.625
-10,"[1, 2, 3, 4, 5, 6, 7, 10, 11, 12, 13]","Yes, I give consent",18,Male,Asian, ,Arts,Apple,Text messaging,-1,3,2,3,1,1,2,2,1,1,1,3,2,1,4,1,1,2.125,1.5
